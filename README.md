@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**felixriese/felixriese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Working on:** the Python package [susi](https://github.com/felixriese/susi)
+- **Learning:** Data Science for Digital Health
+- **Preferred Programming Language:** Python 3
+- **Searching for:** Position in early 2021 & inspiring mentor
+- **Ask me about:** Remote Sensing, Satellite Data, Computer Vision, Data Science, Statistics, Personal Organization
+- **Pronouns:** He/Him/His
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+- [Personal Website](https://felixriese.de)
+- [LinkedIn](https://www.linkedin.com/in/felixriese/)
