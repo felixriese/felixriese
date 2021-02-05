@@ -7,5 +7,3 @@
 - **Ask me about:** Remote Sensing, Satellite Data, Computer Vision, Data Science, Statistics, Personal Organization
 - **Pronouns:** He/Him/His
 - **CV:** [LinkedIn](https://www.linkedin.com/in/felixriese/)
-
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixriese&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
